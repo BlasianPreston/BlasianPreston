@@ -5,4 +5,4 @@
 - 🧠 I have experience with Python and its data science libraries along with Java
 - 📝 I am currently learning HTML and CSS in order to make my own websites
 ---
-[![Isiah's GitHub stats](https://github-readme-stats.vercel.app/api?username=xNightmxreZ)](https://github.com/anuraghazra/github-readme-stats)
+![Isiah's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=synthwave)
