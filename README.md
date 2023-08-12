@@ -25,7 +25,7 @@
     <td>
    <img 
       align="center" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlasianPreston&layout=compact&theme=transparent&langs_count=6" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlasianPreston&layout=compact&theme=transparent&langs_count=6&hide=jupyter-notebook" 
       alt="top languages" />
    </td>
   </tr>
