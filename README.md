@@ -5,7 +5,7 @@
 - 🧠 I have experience with Python and its data science libraries along with Java
 - 📝 I am currently learning HTML and CSS in order to make my own websites
 ---
-<summary> <b>Github Stats</b> </summary>
+### GitHub Stats
 <table>
 <thead>
   <tr>
@@ -31,3 +31,4 @@
   </tr>
 </tbody>
 </table>
+---
