@@ -5,7 +5,6 @@
 - 🧠 I have experience with Python and its data science libraries along with Java
 - 📝 I am currently learning HTML and CSS in order to make my own websites
 ---
-<details>
 <summary> <b>Github Stats</b> </summary>
 <table>
 <thead>
@@ -19,17 +18,16 @@
     <td> 
    <img 
       align="center" 
-      src="https://github-readme-stats.vercel.app/api?username=BlasianPreston&show_icons=true&theme=dracula&count_private=true" 
+      src="https://github-readme-stats.vercel.app/api?username=BlasianPreston&show_icons=true&theme=transparent&count_private=true" 
       alt="account stats"
       /> 
    </td>
     <td>
    <img 
       align="center" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlasianPreston&layout=compact&theme=dracula&langs_count=6" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlasianPreston&layout=compact&theme=transparent&langs_count=6" 
       alt="top languages" />
    </td>
   </tr>
 </tbody>
 </table>
-</details>
