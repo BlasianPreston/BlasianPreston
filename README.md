@@ -3,7 +3,7 @@
 ### About Myself
 - 📖 I am currently a Junior at the Bronx High School of Science
 - 🧠 I have experience with Python and its data science libraries along with Java
-- 📝 I am currently learning HTML and CSS in order to make my own websites
+- 📝 I am currently learning React and Tailwind in order to improve my web dev skills
 ---
 ### GitHub Stats
 <table>
