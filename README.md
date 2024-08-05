@@ -1,9 +1,9 @@
 ### Hi there 👋
 ---
 ### About Myself
-- 📖 I am currently a Rising Senior at the Bronx High School of Science
-- 🧠 I have experience with Python, Java, HTML, CSS, JavaScript and React
-- 📝 I am currently learning Dart and Flutter to assist with my app development skills
+- 📖 I am currently a Freshman at Cornell Engineering
+- 🧠 I have experience with Python, Java, HTML, CSS, JavaScript, React, Dart, and Flutter
+- 📝 I am currently learning AI and Machine Learning skills
 ---
 ### GitHub Stats
 <table>
